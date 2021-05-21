@@ -1,6 +1,6 @@
 # Alura CSS Grid
 <p>Este projeto relacionado ao aprendizado de estilização de sites com CSS.</p>
-<p>Voltado a demonstração de como utilizar um dos métodos de Display para organizar o layout de páginas.</p>
+<p>Voltado a demonstração de como utilizar um dos métodos de FlexBox para organizar o layout de páginas.</p>
 
 <img src="https://i.imgur.com/AdDgpXY.png">
 
